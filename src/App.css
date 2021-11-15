@@ -26,10 +26,36 @@ button {
   font-family: "Special Elite", cursive;
   padding: 0.8rem 2 rem;
   border: none;
-  background-color: rgb(140, 216, 240);
+  background-color: rgb(60, 208, 235);
   margin: 1rem;
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
 }
 
 h1,
 p {
+  margin: 2rem auto;
+}
+
+.circles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.circle {
+  background-color: rgb(246, 241, 241);
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+  color: black;
+}
+
+.circle p {
+  font-size: 2rem;
 }
