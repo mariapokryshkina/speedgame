@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Special+Elite&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Special Elite", cursive;
+  -webkit-font-smoothing: antialased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  padding: 5rem;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(102, 186, 43, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+button {
+  font-family: "Special Elite", cursive;
+  padding: 0.8rem 2 rem;
+  border: none;
+  background-color: rgb(140, 216, 240);
+  margin: 1rem;
+}
+
+h1,
+p {
+}
