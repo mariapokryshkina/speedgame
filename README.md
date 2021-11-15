@@ -7,3 +7,10 @@ Your aim is to score as many points as you can while pressing the higlighted but
 Try it!
 
 Good luck :)
+
+Check the screenshots below to get an idea of how the game looks like
+
+                            ↓  ↓  ↓
+
+![Screenshot](speedgame_1.png)
+![Screenshot](speedgame_2.png)
