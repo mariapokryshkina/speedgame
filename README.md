@@ -16,3 +16,4 @@ Check the screenshots below to get an idea of how the game looks like
 
 ![Screenshot](speedgame_1.png)
 ![Screenshot](speedgame_2.png)
+![Screenshot](speedgame_3.png)
