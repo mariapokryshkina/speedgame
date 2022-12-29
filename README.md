@@ -6,8 +6,6 @@ Your aim is to score as many points as you can while pressing the higlighted but
 
 Try it!
 
-https://suspicious-kare-fea86a.netlify.app/
-
 Good luck :)
 
 Check the screenshots below to get an idea of how the game looks like
