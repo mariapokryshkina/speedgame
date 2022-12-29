@@ -1,6 +1,6 @@
-# [Speedgame App](https://suspicious-kare-fea86a.netlify.app)
+# Speedgame App
 
-Welcome to the Speedgame!
+Welcome to the [Speedgame] (https://suspicious-kare-fea86a.netlify.app)!
 
 Your aim is to score as many points as you can while pressing the higlighted buttons. The more points you score, the faster the game goes.
 
